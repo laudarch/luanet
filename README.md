@@ -1,4 +1,5 @@
-luanet
-======
+A Network access module for Lua
 
-Network access for Lua
+Copyright (C) 2014 by Micro Systems Marc Balmer.
+All rights reserved.
+
